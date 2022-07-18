@@ -15,7 +15,7 @@
 
 :small_blue_diamond: [Bibliotecas](#Bibliotecas)
 
-:small_blue_diamond: Escopo do Projeto
+:small_blue_diamond: [Escopo do Projeto](#Escopo-do-Projeto)
 
 :small_blue_diamond: [Agradecimentos](#Agradecimentos)
 
