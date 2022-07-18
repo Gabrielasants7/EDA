@@ -60,6 +60,11 @@ conclusão .
 
 ## Agradecimentos  👊🏾💙
 
+Três pessoas foram cruciais para que esse projeto fosse desenvolvido : Leonardo meu professor de Estatística e mentor na IBM .
+Patrick , a pessoa que me ouviu desde o momento da entrevista na IBM , e mais tarde meu professor .
+E o thomas Professor de NLP . Muito obrigada !
+
 
 ## Como rodar a aplicação 🎯
+Google Colab
 
